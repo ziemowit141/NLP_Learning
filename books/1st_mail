@@ -1,0 +1,90 @@
+-----
+BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Notice ID: 839ba913924f3fd44403
+Notice Date: 2019-01-13T14:14:53Z
+
+Wroclaw Centre of Networking and Supercomputing
+
+Dear Sir or Madam:
+
+We are contacting you on behalf of Paramount Pictures Corporation (Paramount).  Under penalty of perjury, I assert that IP-Echelon Pty. Ltd., (IP-Echelon) is authorized to act on behalf of the owner of the exclusive copyrights that are alleged to be infringed herein.
+
+IP-Echelon has become aware that the below IP addresses have been using your service for distributing video files, which contain infringing video content that is exclusively owned by Paramount.
+
+IP-Echelon has a good faith belief that the Paramount video content that is described in the below report has not been authorized for sharing or distribution by the copyright owner, its agent, or the law.  I also assert that the information contained in this notice is accurate to the best of our knowledge.
+
+We are requesting your immediate assistance in removing and disabling access to the infringing material from your network.  We also ask that you ensure the user and/or IP address owner refrains from future use and sharing of Paramount materials and property.
+
+In complying with this notice, Wroclaw Centre of Networking and Supercomputing should not destroy any evidence, which may be relevant in a lawsuit, relating to the infringement alleged, including all associated electronic documents and data relating to the presence of infringing items on your network, which shall be preserved while disabling public access, irrespective of any document retention or corporate policy to the contrary.
+
+Please note that this letter is not intended as a full statement of the facts; and does not constitute a waiver of any rights to recover damages, incurred by virtue of any unauthorized or infringing activities, occurring on your network.  All such rights, as well as claims for other relief, are expressly reserved.
+
+Should you need to contact me, I may be reached at the following address:
+
+Adrian Leatherland
+On behalf of IP-Echelon as an agent for Paramount
+Address: 7083 Hollywood Blvd., Los Angeles, CA 90028, United States
+Email: p2p@copyright.ip-echelon.com
+
+
+Evidentiary Information:
+Protocol: BITTORRENT
+Infringed Work: The Prince of Egypt
+Infringing FileName: Prinz_Egipta_1998.x264_HDTVRip_(720p).mkv
+Infringing FileSize: 3565788365
+Infringer's IP Address: 156.17.148.189
+Infringer's Port: 58806
+Initial Infringement Timestamp: 2019-01-13T14:14:47Z
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Infringement xmlns="http://www.acns.net/ACNS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.acns.net/ACNS http://www.acns.net/v1.2/ACNS2v1_2.xsd">
+  <Case>
+    <ID>839ba913924f3fd44403</ID>
+    <Status>Open</Status>
+    <Severity>Normal</Severity>
+  </Case>
+  <Complainant>
+    <Entity>Paramount Pictures Corporation</Entity>
+    <Contact>IP-Echelon - Compliance</Contact>
+    <Address>6715 Hollywood Blvd
+Los Angeles CA 90028
+United States of America</Address>
+    <Phone>+1 (310) 606 2747</Phone>
+    <Email>p2p@copyright.ip-echelon.com</Email>
+  </Complainant>
+  <Service_Provider>
+    <Entity>Wroclaw Centre of Networking and Supercomputing</Entity>
+    <Email>abuse@wask.wroc.pl</Email>
+  </Service_Provider>
+  <Source>
+    <TimeStamp>2019-01-13T14:14:47Z</TimeStamp>
+    <IP_Address>156.17.148.189</IP_Address>
+    <Port>58806</Port>
+    <Type>BitTorrent</Type>
+    <SubType BaseType="P2P" Protocol="BITTORRENT"/>
+    <Number_Files>1</Number_Files>
+  </Source>
+  <Content>
+    <Item>
+      <TimeStamp>2019-01-13T14:14:47Z</TimeStamp>
+      <Title>The Prince of Egypt</Title>
+      <FileName>Prinz_Egipta_1998.x264_HDTVRip_(720p).mkv</FileName>
+      <FileSize>3565788365</FileSize>
+      <Hash Type="SHA1">37bf59f177d2c9e1f8da48a12488c8e00f1d71a5</Hash>
+    </Item>
+  </Content>
+</Infringement>
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJcO0fdAAoJEN5LM3Etqs/WywgH/jo3myyijhvb7Jnylb8VCgZU
+/u4U8+F/zY2zf7yz+s+nC4NrcDil4e9EUE9REkPeWdsFrtLGYEZkU0hH8j/f8v0S
+QK6MO1dMKAACF5mUgqOwaDkfGdpzEpz81CJaA+MDPYcoYAgkuj7CT3tlxGjl+79F
+I3jvOASQTkblKlWXZ9jSpwvm6wOUxKbw/tsRZF3hKtVF+N9+yGryOPf6P/hUApJH
+G0Lp0q2+AN2BYIhaN1G1NBDDkOACX2CpDZYQ3vk7lWd6a90CCraspLATtNqsiB7H
+ivO1eO8p8XL5O2ZsCq36MbWX5XydoZTY2oBEU6UvMbar2smuRF21RI4OtqUwOds=
+=tfAE
+-----END PGP SIGNATURE-----
